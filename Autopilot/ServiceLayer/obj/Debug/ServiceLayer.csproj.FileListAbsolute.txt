@@ -1,0 +1,18 @@
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\ServiceLayer.dll
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\ServiceLayer.pdb
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\EntitiesLayer.dll
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\RepositoryLayer.dll
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\EntityFramework.dll
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\EntitiesLayer.pdb
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\RepositoryLayer.pdb
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\EntityFramework.xml
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\Akshay B\Source\Repos\Sample-Github-Repo\Autopilot\ServiceLayer\obj\Debug\ServiceLayer.pdb
+C:\Users\dikshagunnewar\Source\Repos\ProjectAutopilot\Autopilot\ServiceLayer\obj\Debug\ServiceLayer.csprojResolveAssemblyReference.cache
+C:\Users\dikshagunnewar\Source\Repos\ProjectAutopilot\Autopilot\ServiceLayer\obj\Debug\ServiceLayer.dll
+C:\Users\dikshagunnewar\Source\Repos\ProjectAutopilot\Autopilot\ServiceLayer\obj\Debug\ServiceLayer.pdb
