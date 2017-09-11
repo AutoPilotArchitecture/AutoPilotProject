@@ -5,7 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace EntitiesLayer.Entities
-{
+{/// <summary>
+/// change no2
+/// </summary>
     public class AccSettings
     {
         public int Id { get; set; }
